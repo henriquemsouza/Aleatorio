@@ -1,0 +1,15 @@
+git clone +http....                  // clone repo
+cd to folder                        // ir ate caminho do folder clonodado ou baixado
+cd +tab                            // abrir folder
+git status                        //ver status 
+git add .                        // adicionar todos  os files do filder
+git commit -m "random message"  // commitar as mudanças  +  one message
+git push                       // faz  o  update do file
+                               \\
+                                \\
+                                 ||
+                                 ||
+                                 ||
+                                 ||
+
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.htmlg
